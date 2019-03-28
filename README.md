@@ -6,4 +6,4 @@ Table of contents:
 *Understanding the Data
 *Reading the data in
 *Data Exploration
-*Simple Regression Model`
+*Simple Regression Model
